@@ -9,10 +9,6 @@ Me chamo Luiz Cavano, tenho 19 anos e sou de Embu das Artes. Concluí o ensino m
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LuizKawanooo/luizcavano/refs/heads/main/perfil_2img.jpg" alt="Luiz Henrique Santos Cavano" width="150" height="150" style="border-radius: 50%; border: 4px solid #455f88ff;">
-</p>
-
 
 <div align="center" style="text-align:center; color:#3d82b2; font-weight:750;">
   <a href="https://www.linkedin.com/in/luizcavano" 
