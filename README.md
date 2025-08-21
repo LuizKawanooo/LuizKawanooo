@@ -33,7 +33,7 @@ Me chamo Luiz Cavano, tenho 19 anos e sou de Embu das Artes. Concluí o ensino m
 
 <hr style="border: 1.5px solid #ae0c0d;">
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que Gosto e Ja tive experiência
 
 <div style="
   display: flex;
